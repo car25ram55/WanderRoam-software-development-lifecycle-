@@ -45,7 +45,8 @@ As a frequent traveler, the desire to quickly generate a personalized itinerary 
 
 As a cultural enthusiast visiting a new city, the need for features that recommend local events and activities not found in guidebooks to experience the city authentically.
 
-![Screenshot_20240131_080927](https://github.com/car25ram55/WanderRoam-software-development-lifecycle-/assets/78864480/628f4588-fcd1-4eb9-9903-f88f0930a3f1)
+
+![Screenshot (1)](https://github.com/car25ram55/WanderRoam-software-development-lifecycle-/assets/78864480/35de4af4-6a2a-466b-a587-d9d3b201e75c)
 
 Data Model
 
